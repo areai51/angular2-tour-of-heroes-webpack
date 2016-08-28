@@ -1,6 +1,7 @@
 typings
 src/**/*.js
 src/**/*.map
+dist
 src/app/**/*.js
 src/app/**/*.map
 node_modules
